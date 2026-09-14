@@ -6,7 +6,7 @@ Everything you need ships in this repository:
 
 - `data/` — 495 animals, 19 habitats, 493 knowledge documents, an illustration for every record, and `skesis.config.json`, the file that says which properties are searchable.
 - `blocks/` — one JSON file per block the guide adds, and `blocks/pinned/` for part 4.
-- `config/` — the intent schema, use intent, landing, voice and guardrails for parts 5 and 6.
+- `config/` — the intent schema, use intent and landing for part 5.
 - `src/` — the real Atlas front end, already wired to your project through `VITE_CALLIMACUS_CLIENT_ID`.
 
 ## Load the catalogue
