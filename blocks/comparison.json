@@ -1,8 +1,8 @@
 {
   "key": "comparativeCard",
   "name": "Animal Comparison",
-  "prompt": "Two specific animals side by side — size, weight, habitats, era. Use only when the visitor names two animals and asks how they differ or which is better at something. Not for a single animal, and not for open 'which animal is the fastest' questions with no two names.",
-  "description": "Two specific animals side by side — size, weight, habitats, era. Use only when the visitor names two animals and asks how they differ or which is better at something. Not for a single animal, and not for open 'which animal is the fastest' questions with no two names.",
+  "prompt": "Puts two animals side by side.",
+  "description": "Puts two animals side by side.",
   "node": {
     "display": "augment",
     "block": {

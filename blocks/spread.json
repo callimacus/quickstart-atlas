@@ -1,8 +1,8 @@
 {
   "key": "ThemedSection",
   "name": "Themed Section",
-  "prompt": "A magazine-style spread of four to eight animals that share a place, gathered under one evocative theme — each with its own caption, over art for the habitat they share. Use when the visitor asks what lives somewhere or about a place or a group ('what lives on a coral reef', 'animals of the savanna'). Not for one named species, not for two named animals, and not for superlatives or rankings.",
-  "description": "A magazine-style spread of four to eight animals that share a place, gathered under one evocative theme — each with its own caption, over art for the habitat they share. Use when the visitor asks what lives somewhere or about a place or a group ('what lives on a coral reef', 'animals of the savanna'). Not for one named species, not for two named animals, and not for superlatives or rankings.",
+  "prompt": "The animals of one place, each with a caption.",
+  "description": "The animals of one place, each with a caption.",
   "node": {
     "display": "augment",
     "block": {
