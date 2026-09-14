@@ -11,14 +11,16 @@ Everything you need ships in this repository:
 
 ## Load the catalogue
 
-Requires the [Callimacus CLI](https://docs.callimacus.ai/callimacus-cli/2-installation) 5.1 or newer, logged in against your project, on Node 26 or newer. Parts 1 to 5 work from 3.0; part 6 talks to the agents, which needs 5.1.
+Requires the [Callimacus CLI](https://docs.callimacus.ai/callimacus-cli/2-installation) 5.2 or newer, logged in against your project, on Node 26 or newer. Parts 1 to 5 work from 3.0, except the documents below — `document create` only splits a file this size into batches from 5.2. Part 6 talks to the agents, which needs 5.1.
 
 ```bash
-callimacus skesis init --dir data     # confirms the committed configuration
-callimacus skesis up --dir data       # applies it, uploads the images, submits the records, waits until searchable
-callimacus skesis status              # searchable (rev N)
-bash data/load-knowledge.sh           # the 493 documents, in chunks the API accepts
+callimacus skesis init --dir data                        # confirms the committed configuration
+callimacus skesis up --dir data                          # applies it, uploads the images, submits the records, waits until searchable
+callimacus skesis status                                 # searchable (rev N)
+callimacus document create --file data/knowledge.json    # the 493 documents, in batches of 50
 ```
+
+`skesis up` is safe to re-run — records carry an id the engine matches on. `document create` is not: documents are inserted as submitted, so running that last line twice leaves two copies of all 493. Run it once against an empty project.
 
 ## Run the front end
 
