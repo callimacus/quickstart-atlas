@@ -3,6 +3,7 @@
   "name": "Dodo (Raphus cucullatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -58,6 +59,7 @@
   "name": "Tyrannosaurus (Tyrannosaurus rex)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -113,6 +115,7 @@
   "name": "White Rhinoceros (Ceratotherium simum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -168,6 +171,7 @@
   "name": "Colibri (Trochilidae)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -223,6 +227,7 @@
   "name": "Lion (Panthera leo)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -278,6 +283,7 @@
   "name": "Tiger (Panthera tigris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -333,6 +339,7 @@
   "name": "Leopard (Panthera pardus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -388,6 +395,7 @@
   "name": "Cheetah (Acinonyx jubatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -443,6 +451,7 @@
   "name": "Jaguar (Panthera onca)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -498,6 +507,7 @@
   "name": "Cougar (Puma concolor)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -553,6 +563,7 @@
   "name": "Eurasian Lynx (Lynx lynx)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -608,6 +619,7 @@
   "name": "Bobcat (Lynx rufus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -663,6 +675,7 @@
   "name": "Caracal (Caracal caracal)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -718,6 +731,7 @@
   "name": "Serval (Leptailurus serval)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -773,6 +787,7 @@
   "name": "Snow Leopard (Panthera uncia)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -828,6 +843,7 @@
   "name": "Clouded Leopard (Neofelis nebulosa)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -883,6 +899,7 @@
   "name": "Brown Bear (Ursus arctos)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -938,6 +955,7 @@
   "name": "Polar Bear (Ursus maritimus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -993,6 +1011,7 @@
   "name": "American Black Bear (Ursus americanus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1048,6 +1067,7 @@
   "name": "Marsican Brown Bear (Ursus arctos marsicanus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1103,6 +1123,7 @@
   "name": "Sun Bear (Helarctos malayanus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1158,6 +1179,7 @@
   "name": "Giant Panda (Ailuropoda melanoleuca)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1213,6 +1235,7 @@
   "name": "Red Panda (Ailurus fulgens)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1268,6 +1291,7 @@
   "name": "Wolverine (Gulo gulo)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1323,6 +1347,7 @@
   "name": "European Badger (Meles meles)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1378,6 +1403,7 @@
   "name": "Eurasian Otter (Lutra lutra)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1433,6 +1459,7 @@
   "name": "Sea Otter (Enhydra lutris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1488,6 +1515,7 @@
   "name": "Honey Badger (Mellivora capensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1543,6 +1571,7 @@
   "name": "Meerkat (Suricata suricatta)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1598,6 +1627,7 @@
   "name": "Gray Wolf (Canis lupus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1653,6 +1683,7 @@
   "name": "Arctic Wolf (Canis lupus arctos)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1708,6 +1739,7 @@
   "name": "Coyote (Canis latrans)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1763,6 +1795,7 @@
   "name": "Red Fox (Vulpes vulpes)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1818,6 +1851,7 @@
   "name": "Arctic Fox (Vulpes lagopus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1873,6 +1907,7 @@
   "name": "Fennec Fox (Vulpes zerda)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1928,6 +1963,7 @@
   "name": "Golden Jackal (Canis aureus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -1983,6 +2019,7 @@
   "name": "African Wild Dog (Lycaon pictus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2038,6 +2075,7 @@
   "name": "Dingo (Canis familiaris (breed Dingo))",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2093,6 +2131,7 @@
   "name": "Western Lowland Gorilla (Gorilla gorilla gorilla)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2148,6 +2187,7 @@
   "name": "Chimpanzee (Pan troglodytes)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2203,6 +2243,7 @@
   "name": "Bonobo (Pan paniscus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2258,6 +2299,7 @@
   "name": "Bornean Orangutan (Pongo pygmaeus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2313,6 +2355,7 @@
   "name": "Mandrill (Mandrillus sphinx)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2368,6 +2411,7 @@
   "name": "Olive Baboon (Papio anubis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2423,6 +2467,7 @@
   "name": "Vervet Monkey (Chlorocebus pygerythrus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2478,6 +2523,7 @@
   "name": "Japanese Macaque (Macaca fuscata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2533,6 +2579,7 @@
   "name": "Howler Monkey (Alouatta palliata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2588,6 +2635,7 @@
   "name": "Spider Monkey (Ateles geoffroyi)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2643,6 +2691,7 @@
   "name": "Golden Lion Tamarin (Leontopithecus rosalia)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2698,6 +2747,7 @@
   "name": "Ring-Tailed Lemur (Lemur catta)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2753,6 +2803,7 @@
   "name": "Indri (Indri indri)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2808,6 +2859,7 @@
   "name": "Aye-Aye (Daubentonia madagascariensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2863,6 +2915,7 @@
   "name": "Tarsier (Tarsius tarsier)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2918,6 +2971,7 @@
   "name": "Slow Loris (Nycticebus coucang)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -2973,6 +3027,7 @@
   "name": "African Bush Elephant (Loxodonta africana)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3028,6 +3083,7 @@
   "name": "Asian Elephant (Elephas maximus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3083,6 +3139,7 @@
   "name": "Black Rhinoceros (Diceros bicornis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3138,6 +3195,7 @@
   "name": "Indian Rhinoceros (Rhinoceros unicornis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3193,6 +3251,7 @@
   "name": "Hippopotamus (Hippopotamus amphibius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3248,6 +3307,7 @@
   "name": "Pygmy Hippopotamus (Choeropsis liberiensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3303,6 +3363,7 @@
   "name": "Giraffe (Giraffa camelopardalis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3358,6 +3419,7 @@
   "name": "Okapi (Okapia johnstoni)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3413,6 +3475,7 @@
   "name": "Plains Zebra (Equus quagga)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3468,6 +3531,7 @@
   "name": "Grévy's Zebra (Equus grevyi)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3523,6 +3587,7 @@
   "name": "Przewalski's Horse (Equus ferus przewalskii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3578,6 +3643,7 @@
   "name": "Malayan Tapir (Tapirus indicus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3633,6 +3699,7 @@
   "name": "Wild Boar (Sus scrofa)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3688,6 +3755,7 @@
   "name": "Common Warthog (Phacochoerus africanus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3743,6 +3811,7 @@
   "name": "Collared Peccary (Pecari tajacu)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3798,6 +3867,7 @@
   "name": "American Bison (Bison bison)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3853,6 +3923,7 @@
   "name": "European Bison (Bison bonasus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3908,6 +3979,7 @@
   "name": "African Buffalo (Syncerus caffer)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -3963,6 +4035,7 @@
   "name": "Wild Yak (Bos mutus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4018,6 +4091,7 @@
   "name": "Moose (Alces alces)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4073,6 +4147,7 @@
   "name": "Reindeer (Rangifer tarandus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4128,6 +4203,7 @@
   "name": "Red Deer (Cervus elaphus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4183,6 +4259,7 @@
   "name": "Roe Deer (Capreolus capreolus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4238,6 +4315,7 @@
   "name": "Blackbuck (Antilope cervicapra)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4293,6 +4371,7 @@
   "name": "Thomson's Gazelle (Eudorcas thomsonii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4348,6 +4427,7 @@
   "name": "Impala (Aepyceros melampus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4403,6 +4483,7 @@
   "name": "Blue Wildebeest (Connochaetes taurinus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4458,6 +4539,7 @@
   "name": "Arabian Oryx (Oryx leucoryx)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4513,6 +4595,7 @@
   "name": "Springbok (Antidorcas marsupialis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4568,6 +4651,7 @@
   "name": "Saiga Antelope (Saiga tatarica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4623,6 +4707,7 @@
   "name": "Alpine Ibex (Capra ibex)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4678,6 +4763,7 @@
   "name": "Chamois (Rupicapra rupicapra)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4733,6 +4819,7 @@
   "name": "Markhor (Capra falconeri)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4788,6 +4875,7 @@
   "name": "Llama (Lama glama)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4843,6 +4931,7 @@
   "name": "Alpaca (Vicugna pacos)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4898,6 +4987,7 @@
   "name": "Vicuña (Vicugna vicugna)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -4953,6 +5043,7 @@
   "name": "Dromedary (Camelus dromedarius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5008,6 +5099,7 @@
   "name": "Bactrian Camel (Camelus bactrianus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5063,6 +5155,7 @@
   "name": "Blue Whale (Balaenoptera musculus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5118,6 +5211,7 @@
   "name": "Sperm Whale (Physeter macrocephalus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5173,6 +5267,7 @@
   "name": "Humpback Whale (Megaptera novaeangliae)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5228,6 +5323,7 @@
   "name": "Orca (Orcinus orca)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5283,6 +5379,7 @@
   "name": "Bottlenose Dolphin (Tursiops truncatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5338,6 +5435,7 @@
   "name": "Common Dolphin (Delphinus delphis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5393,6 +5491,7 @@
   "name": "Narwhal (Monodon monoceros)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5448,6 +5547,7 @@
   "name": "Beluga Whale (Delphinapterus leucas)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5503,6 +5603,7 @@
   "name": "Grey Seal (Halichoerus grypus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5558,6 +5659,7 @@
   "name": "Mediterranean Monk Seal (Monachus monachus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5613,6 +5715,7 @@
   "name": "California Sea Lion (Zalophus californianus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5668,6 +5771,7 @@
   "name": "Walrus (Odobenus rosmarus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5723,6 +5827,7 @@
   "name": "Dugong (Dugong dugon)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5778,6 +5883,7 @@
   "name": "West Indian Manatee (Trichechus manatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5833,6 +5939,7 @@
   "name": "Eurasian Beaver (Castor fiber)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5888,6 +5995,7 @@
   "name": "Capybara (Hydrochoerus hydrochaeris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5943,6 +6051,7 @@
   "name": "North American Porcupine (Erethizon dorsatum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -5998,6 +6107,7 @@
   "name": "Crested Porcupine (Hystrix cristata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6053,6 +6163,7 @@
   "name": "Red Squirrel (Sciurus vulgaris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6108,6 +6219,7 @@
   "name": "Flying Squirrel (Glaucomys volans)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6163,6 +6275,7 @@
   "name": "Alpine Marmot (Marmota marmota)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6218,6 +6331,7 @@
   "name": "Golden Hamster (Mesocricetus auratus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6273,6 +6387,7 @@
   "name": "Norway Lemming (Lemmus lemmus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6328,6 +6443,7 @@
   "name": "European Mole (Talpa europaea)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6383,6 +6499,7 @@
   "name": "European Hedgehog (Erinaceus europaeus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6438,6 +6555,7 @@
   "name": "Common Shrew (Sorex araneus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6493,6 +6611,7 @@
   "name": "Vampire Bat (Desmodus rotundus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6548,6 +6667,7 @@
   "name": "Flying Fox (Pteropus vampyrus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6603,6 +6723,7 @@
   "name": "Platypus (Ornithorhynchus anatinus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6658,6 +6779,7 @@
   "name": "Short-Beaked Echidna (Tachyglossus aculeatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6713,6 +6835,7 @@
   "name": "Koala (Phascolarctos cinereus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6768,6 +6891,7 @@
   "name": "Red Kangaroo (Osphranter rufus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6823,6 +6947,7 @@
   "name": "Red-Necked Wallaby (Notamacropus rufogriseus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6878,6 +7003,7 @@
   "name": "Quokka (Setonix brachyurus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6933,6 +7059,7 @@
   "name": "Common Wombat (Vombatus ursinus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -6988,6 +7115,7 @@
   "name": "Tasmanian Devil (Sarcophilus harrisii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7043,6 +7171,7 @@
   "name": "Virginia Opossum (Didelphis virginiana)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7098,6 +7227,7 @@
   "name": "Three-Toed Sloth (Bradypus variegatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7153,6 +7283,7 @@
   "name": "Giant Anteater (Myrmecophaga tridactyla)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7208,6 +7339,7 @@
   "name": "Nine-Banded Armadillo (Dasypus novemcinctus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7263,6 +7395,7 @@
   "name": "Ground Pangolin (Smutsia temminckii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7318,6 +7451,7 @@
   "name": "Aardvark (Orycteropus afer)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7373,6 +7507,7 @@
   "name": "Golden Eagle (Aquila chrysaetos)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7428,6 +7563,7 @@
   "name": "Bald Eagle (Haliaeetus leucocephalus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7483,6 +7619,7 @@
   "name": "Harpy Eagle (Harpia harpyja)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7538,6 +7675,7 @@
   "name": "Peregrine Falcon (Falco peregrinus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7593,6 +7731,7 @@
   "name": "Common Kestrel (Falco tinnunculus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7648,6 +7787,7 @@
   "name": "Northern Goshawk (Accipiter gentilis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7703,6 +7843,7 @@
   "name": "Griffon Vulture (Gyps fulvus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7758,6 +7899,7 @@
   "name": "Bearded Vulture (Gypaetus barbatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7813,6 +7955,7 @@
   "name": "Andean Condor (Vultur gryphus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7868,6 +8011,7 @@
   "name": "California Condor (Gymnogyps californianus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7923,6 +8067,7 @@
   "name": "Osprey (Pandion haliaetus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -7978,6 +8123,7 @@
   "name": "Eurasian Eagle-Owl (Bubo bubo)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8033,6 +8179,7 @@
   "name": "Tawny Owl (Strix aluco)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8088,6 +8235,7 @@
   "name": "Barn Owl (Tyto alba)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8143,6 +8291,7 @@
   "name": "Snowy Owl (Bubo scandiacus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8198,6 +8347,7 @@
   "name": "Emperor Penguin (Aptenodytes forsteri)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8253,6 +8403,7 @@
   "name": "King Penguin (Aptenodytes patagonicus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8308,6 +8459,7 @@
   "name": "Adélie Penguin (Pygoscelis adeliae)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8363,6 +8515,7 @@
   "name": "Rockhopper Penguin (Eudyptes chrysocome)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8418,6 +8571,7 @@
   "name": "Galápagos Penguin (Spheniscus mendiculus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8473,6 +8627,7 @@
   "name": "Common Ostrich (Struthio camelus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8528,6 +8683,7 @@
   "name": "Emu (Dromaius novaehollandiae)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8583,6 +8739,7 @@
   "name": "Southern Cassowary (Casuarius casuarius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8638,6 +8795,7 @@
   "name": "Brown Kiwi (Apteryx mantelli)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8693,6 +8851,7 @@
   "name": "Wild Turkey (Meleagris gallopavo)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8748,6 +8907,7 @@
   "name": "Indian Peafowl (Pavo cristatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8803,6 +8963,7 @@
   "name": "Common Pheasant (Phasianus colchicus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8858,6 +9019,7 @@
   "name": "Atlantic Puffin (Fratercula arctica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8913,6 +9075,7 @@
   "name": "Wandering Albatross (Diomedea exulans)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -8968,6 +9131,7 @@
   "name": "Northern Gannet (Morus bassanus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9023,6 +9187,7 @@
   "name": "Great Cormorant (Phalacrocorax carbo)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9078,6 +9243,7 @@
   "name": "Great White Pelican (Pelecanus onocrotalus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9133,6 +9299,7 @@
   "name": "Greater Flamingo (Phoenicopterus roseus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9188,6 +9355,7 @@
   "name": "Grey Heron (Ardea cinerea)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9243,6 +9411,7 @@
   "name": "White Stork (Ciconia ciconia)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9298,6 +9467,7 @@
   "name": "Sacred Ibis (Threskiornis aethiopicus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9353,6 +9523,7 @@
   "name": "Common Crane (Grus grus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9408,6 +9579,7 @@
   "name": "Grey Crowned Crane (Balearica regulorum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9463,6 +9635,7 @@
   "name": "Mute Swan (Cygnus olor)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9518,6 +9691,7 @@
   "name": "Greylag Goose (Anser anser)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9573,6 +9747,7 @@
   "name": "Mallard (Anas platyrhynchos)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9628,6 +9803,7 @@
   "name": "Eurasian Woodcock (Scolopax rusticola)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9683,6 +9859,7 @@
   "name": "Eurasian Curlew (Numenius arquata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9738,6 +9915,7 @@
   "name": "Northern Lapwing (Vanellus vanellus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9793,6 +9971,7 @@
   "name": "Common Tern (Sterna hirundo)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9848,6 +10027,7 @@
   "name": "Arctic Tern (Sterna paradisaea)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9903,6 +10083,7 @@
   "name": "Common Kingfisher (Alcedo atthis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -9958,6 +10139,7 @@
   "name": "Toco Toucan (Ramphastos toco)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10013,6 +10195,7 @@
   "name": "Scarlet Macaw (Ara macao)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10068,6 +10251,7 @@
   "name": "Sulphur-Crested Cockatoo (Cacatua galerita)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10123,6 +10307,7 @@
   "name": "African Grey Parrot (Psittacus erithacus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10178,6 +10363,7 @@
   "name": "Rainbow Lorikeet (Trichoglossus moluccanus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10233,6 +10419,7 @@
   "name": "Giant Hummingbird (Patagona gigas)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10288,6 +10475,7 @@
   "name": "Anna's Hummingbird (Calypte anna)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10343,6 +10531,7 @@
   "name": "Resplendent Quetzal (Pharomachrus mocinno)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10398,6 +10587,7 @@
   "name": "Greater Bird-Of-Paradise (Paradisaea apoda)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10453,6 +10643,7 @@
   "name": "Superb Lyrebird (Menura novaehollandiae)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10508,6 +10699,7 @@
   "name": "Magnificent Frigatebird (Fregata magnificens)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10563,6 +10755,7 @@
   "name": "Common Swift (Apus apus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10618,6 +10811,7 @@
   "name": "Great Spotted Woodpecker (Dendrocopos major)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10673,6 +10867,7 @@
   "name": "European Green Woodpecker (Picus viridis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10728,6 +10923,7 @@
   "name": "Hoopoe (Upupa epops)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10783,6 +10979,7 @@
   "name": "Eurasian Jay (Garrulus glandarius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10838,6 +11035,7 @@
   "name": "Eurasian Magpie (Pica pica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10893,6 +11091,7 @@
   "name": "Hooded Crow (Corvus cornix)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -10948,6 +11147,7 @@
   "name": "Common Raven (Corvus corax)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11003,6 +11203,7 @@
   "name": "European Robin (Erithacus rubecula)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11058,6 +11259,7 @@
   "name": "Common Nightingale (Luscinia megarhynchos)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11113,6 +11315,7 @@
   "name": "Common Blackbird (Turdus merula)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11168,6 +11371,7 @@
   "name": "Song Thrush (Turdus philomelos)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11223,6 +11427,7 @@
   "name": "Great Tit (Parus major)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11278,6 +11483,7 @@
   "name": "Eurasian Blue Tit (Cyanistes caeruleus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11333,6 +11539,7 @@
   "name": "Common Redstart (Phoenicurus phoenicurus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11388,6 +11595,7 @@
   "name": "Eurasian Blackcap (Sylvia atricapilla)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11443,6 +11651,7 @@
   "name": "Eurasian Wren (Troglodytes troglodytes)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11498,6 +11707,7 @@
   "name": "Common Chaffinch (Fringilla coelebs)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11553,6 +11763,7 @@
   "name": "European Goldfinch (Carduelis carduelis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11608,6 +11819,7 @@
   "name": "House Sparrow (Passer domesticus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11663,6 +11875,7 @@
   "name": "Common Starling (Sturnus vulgaris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11718,6 +11931,7 @@
   "name": "Eurasian Golden Oriole (Oriolus oriolus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11773,6 +11987,7 @@
   "name": "Eurasian Skylark (Alauda arvensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11828,6 +12043,7 @@
   "name": "Barn Swallow (Hirundo rustica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11883,6 +12099,7 @@
   "name": "European Bee-Eater (Merops apiaster)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11938,6 +12155,7 @@
   "name": "Nile Crocodile (Crocodylus niloticus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -11993,6 +12211,7 @@
   "name": "Saltwater Crocodile (Crocodylus porosus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12048,6 +12267,7 @@
   "name": "American Alligator (Alligator mississippiensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12103,6 +12323,7 @@
   "name": "Gharial (Gavialis gangeticus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12158,6 +12379,7 @@
   "name": "Reticulated Python (Malayopython reticulatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12213,6 +12435,7 @@
   "name": "Green Anaconda (Eunectes murinus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12268,6 +12491,7 @@
   "name": "Boa Constrictor (Boa constrictor)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12323,6 +12547,7 @@
   "name": "King Cobra (Ophiophagus hannah)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12378,6 +12603,7 @@
   "name": "Black Mamba (Dendroaspis polylepis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12433,6 +12659,7 @@
   "name": "Eastern Green Mamba (Dendroaspis angusticeps)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12488,6 +12715,7 @@
   "name": "Gaboon Viper (Bitis gabonica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12543,6 +12771,7 @@
   "name": "Common European Adder (Vipera berus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12598,6 +12827,7 @@
   "name": "Western Diamondback Rattlesnake (Crotalus atrox)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12653,6 +12883,7 @@
   "name": "Timber Rattlesnake (Crotalus horridus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12708,6 +12939,7 @@
   "name": "Inland Taipan (Oxyuranus microlepidotus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12763,6 +12995,7 @@
   "name": "Eastern Coral Snake (Micrurus fulvius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12818,6 +13051,7 @@
   "name": "Grass Snake (Natrix natrix)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12873,6 +13107,7 @@
   "name": "Komodo Dragon (Varanus komodoensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12928,6 +13163,7 @@
   "name": "Green Iguana (Iguana iguana)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -12983,6 +13219,7 @@
   "name": "Marine Iguana (Amblyrhynchus cristatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13038,6 +13275,7 @@
   "name": "Panther Chameleon (Furcifer pardalis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13093,6 +13331,7 @@
   "name": "Veiled Chameleon (Chamaeleo calyptratus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13148,6 +13387,7 @@
   "name": "Leopard Gecko (Eublepharis macularius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13203,6 +13443,7 @@
   "name": "Tokay Gecko (Gekko gecko)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13258,6 +13499,7 @@
   "name": "European Green Lizard (Lacerta viridis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13313,6 +13555,7 @@
   "name": "Common Wall Lizard (Podarcis muralis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13368,6 +13611,7 @@
   "name": "Green Basilisk (Basiliscus plumifrons)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13423,6 +13667,7 @@
   "name": "Frilled-Necked Lizard (Chlamydosaurus kingii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13478,6 +13723,7 @@
   "name": "Gila Monster (Heloderma suspectum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13533,6 +13779,7 @@
   "name": "Blue-Tongued Skink (Tiliqua scincoides)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13588,6 +13835,7 @@
   "name": "Argentine Black and White Tegu (Salvator merianae)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13643,6 +13891,7 @@
   "name": "Green Sea Turtle (Chelonia mydas)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13698,6 +13947,7 @@
   "name": "Hawksbill Sea Turtle (Eretmochelys imbricata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13753,6 +14003,7 @@
   "name": "Leatherback Sea Turtle (Dermochelys coriacea)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13808,6 +14059,7 @@
   "name": "Loggerhead Sea Turtle (Caretta caretta)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13863,6 +14115,7 @@
   "name": "Common Snapping Turtle (Chelydra serpentina)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13918,6 +14171,7 @@
   "name": "Galápagos Giant Tortoise (Chelonoidis niger)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -13973,6 +14227,7 @@
   "name": "Aldabra Giant Tortoise (Aldabrachelys gigantea)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14028,6 +14283,7 @@
   "name": "Hermann's Tortoise (Testudo hermanni)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14083,6 +14339,7 @@
   "name": "European Pond Turtle (Emys orbicularis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14138,6 +14395,7 @@
   "name": "Chinese Softshell Turtle (Pelodiscus sinensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14193,6 +14451,7 @@
   "name": "Tuatara (Sphenodon punctatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14248,6 +14507,7 @@
   "name": "Fire Salamander (Salamandra salamandra)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14303,6 +14563,7 @@
   "name": "Northern Crested Newt (Triturus cristatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14358,6 +14619,7 @@
   "name": "Alpine Newt (Ichthyosaura alpestris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14413,6 +14675,7 @@
   "name": "Axolotl (Ambystoma mexicanum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14468,6 +14731,7 @@
   "name": "Olm (Proteus anguinus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14523,6 +14787,7 @@
   "name": "Japanese Giant Salamander (Andrias japonicus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14578,6 +14843,7 @@
   "name": "Two-Toed Amphiuma (Amphiuma means)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14633,6 +14899,7 @@
   "name": "Caecilian (Ichthyophis glutinosus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14688,6 +14955,7 @@
   "name": "Alpine Salamander (Salamandra atra)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14743,6 +15011,7 @@
   "name": "Great White Shark (Carcharodon carcharias)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14798,6 +15067,7 @@
   "name": "Tiger Shark (Galeocerdo cuvier)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14853,6 +15123,7 @@
   "name": "Great Hammerhead Shark (Sphyrna mokarran)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14908,6 +15179,7 @@
   "name": "Whale Shark (Rhincodon typus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -14963,6 +15235,7 @@
   "name": "Basking Shark (Cetorhinus maximus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15018,6 +15291,7 @@
   "name": "Bull Shark (Carcharhinus leucas)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15073,6 +15347,7 @@
   "name": "Shortfin Mako Shark (Isurus oxyrinchus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15128,6 +15403,7 @@
   "name": "Blue Shark (Prionace glauca)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15183,6 +15459,7 @@
   "name": "Nurse Shark (Ginglymostoma cirratum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15238,6 +15515,7 @@
   "name": "Blacktip Reef Shark (Carcharhinus melanopterus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15293,6 +15571,7 @@
   "name": "Largetooth Sawfish (Pristis pristis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15348,6 +15627,7 @@
   "name": "Giant Manta Ray (Mobula birostris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15403,6 +15683,7 @@
   "name": "Common Stingray (Dasyatis pastinaca)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15458,6 +15739,7 @@
   "name": "Marbled Electric Ray (Torpedo marmorata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15513,6 +15795,7 @@
   "name": "Blue-Spotted Stingray (Taeniura lymma)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15568,6 +15851,7 @@
   "name": "Atlantic Bluefin Tuna (Thunnus thynnus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15623,6 +15907,7 @@
   "name": "Yellowfin Tuna (Thunnus albacares)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15678,6 +15963,7 @@
   "name": "Atlantic Mackerel (Scomber scombrus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15733,6 +16019,7 @@
   "name": "Atlantic Herring (Clupea harengus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15788,6 +16075,7 @@
   "name": "Swordfish (Xiphias gladius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15843,6 +16131,7 @@
   "name": "Blue Marlin (Makaira nigricans)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15898,6 +16187,7 @@
   "name": "Sailfish (Istiophorus platypterus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -15953,6 +16243,7 @@
   "name": "Great Barracuda (Sphyraena barracuda)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16008,6 +16299,7 @@
   "name": "Gilt-Head Bream (Sparus aurata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16063,6 +16355,7 @@
   "name": "European Seabass (Dicentrarchus labrax)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16118,6 +16411,7 @@
   "name": "Giant Grouper (Epinephelus lanceolatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16173,6 +16467,7 @@
   "name": "Parrotfish (Scarus ghobban)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16228,6 +16523,7 @@
   "name": "Surgeonfish (Acanthurus triostegus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16283,6 +16579,7 @@
   "name": "Emperor Angelfish (Pomacanthus imperator)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16338,6 +16635,7 @@
   "name": "Butterflyfish (Chaetodon auriga)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16393,6 +16691,7 @@
   "name": "Clownfish (Amphiprion ocellaris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16448,6 +16747,7 @@
   "name": "Triggerfish (Balistes capriscus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16503,6 +16803,7 @@
   "name": "Pufferfish (Takifugu rubripes)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16558,6 +16859,7 @@
   "name": "Porcupinefish (Diodon holocanthus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16613,6 +16915,7 @@
   "name": "Mediterranean Moray (Muraena helena)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16668,6 +16971,7 @@
   "name": "European Eel (Anguilla anguilla)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16723,6 +17027,7 @@
   "name": "Red Scorpionfish (Scorpaena scrofa)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16778,6 +17083,7 @@
   "name": "Stonefish (Synanceia verrucosa)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16833,6 +17139,7 @@
   "name": "Lionfish (Pterois volitans)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16888,6 +17195,7 @@
   "name": "Seahorse (Hippocampus kuda)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16943,6 +17251,7 @@
   "name": "Pipefish (Syngnathus typhle)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -16998,6 +17307,7 @@
   "name": "Flying Fish (Exocoetus volitans)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17053,6 +17363,7 @@
   "name": "Lanternfish (Myctophum punctatum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17108,6 +17419,7 @@
   "name": "Viperfish (Chauliodus sloani)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17163,6 +17475,7 @@
   "name": "Black Dragonfish (Idiacanthus atlanticus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17218,6 +17531,7 @@
   "name": "Coelacanth (Latimeria chalumnae)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17273,6 +17587,7 @@
   "name": "Giant Oarfish (Regalecus glesne)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17328,6 +17643,7 @@
   "name": "European Sturgeon (Acipenser sturio)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17383,6 +17699,7 @@
   "name": "Beluga Sturgeon (Huso huso)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17438,6 +17755,7 @@
   "name": "Atlantic Salmon (Salmo salar)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17493,6 +17811,7 @@
   "name": "Brown Trout (Salmo trutta)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17548,6 +17867,7 @@
   "name": "Rainbow Trout (Oncorhynchus mykiss)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17603,6 +17923,7 @@
   "name": "Northern Pike (Esox lucius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17658,6 +17979,7 @@
   "name": "European Perch (Perca fluviatilis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17713,6 +18035,7 @@
   "name": "Common Carp (Cyprinus carpio)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17768,6 +18091,7 @@
   "name": "Atlantic Cod (Gadus morhua)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17823,6 +18147,7 @@
   "name": "Turbot (Scophthalmus maximus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17878,6 +18203,7 @@
   "name": "Sea Lamprey (Petromyzon marinus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17933,6 +18259,7 @@
   "name": "Red-Bellied Piranha (Pygocentrus nattereri)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -17988,6 +18315,7 @@
   "name": "Wels Catfish (Silurus glanis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18043,6 +18371,7 @@
   "name": "Silver Arowana (Osteoglossum bicirrhosum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18098,6 +18427,7 @@
   "name": "Siamese Fighting Fish (Betta splendens)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18153,6 +18483,7 @@
   "name": "West Indian Ocean Coelacanth (Latimeria chalumnae)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18208,6 +18539,7 @@
   "name": "Seven-Spot Ladybird (Coccinella septempunctata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18263,6 +18595,7 @@
   "name": "European Mantis (Mantis religiosa)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18318,6 +18651,7 @@
   "name": "Rhinoceros Beetle (Trypoxylus dichotomus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18373,6 +18707,7 @@
   "name": "Stag Beetle (Lucanus cervus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18428,6 +18763,7 @@
   "name": "Dung Beetle (Copris lunaris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18483,6 +18819,7 @@
   "name": "Tiger Beetle (Cicindela sexguttata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18538,6 +18875,7 @@
   "name": "Firefly (Photinus pyralis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18593,6 +18931,7 @@
   "name": "Emperor Dragonfly (Anax imperator)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18648,6 +18987,7 @@
   "name": "Damselfly (Calopteryx splendens)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18703,6 +19043,7 @@
   "name": "Grasshopper (Melanoplus differentialis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18758,6 +19099,7 @@
   "name": "Migratory Locust (Locusta migratoria)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18813,6 +19155,7 @@
   "name": "Cicada (Magicicada septendecim)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18868,6 +19211,7 @@
   "name": "Honey Bee (Apis mellifera)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18923,6 +19267,7 @@
   "name": "Buff-Tailed Bumblebee (Bombus terrestris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -18978,6 +19323,7 @@
   "name": "Common Wasp (Vespula vulgaris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19033,6 +19379,7 @@
   "name": "European Hornet (Vespa crabro)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19088,6 +19435,7 @@
   "name": "Red Wood Ant (Formica rufa)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19143,6 +19491,7 @@
   "name": "Leafcutter Ant (Atta cephalotes)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19198,6 +19547,7 @@
   "name": "Army Ant (Eciton burchellii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19253,6 +19603,7 @@
   "name": "Termite (Coptotermes formosanus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19308,6 +19659,7 @@
   "name": "Monarch Butterfly (Danaus plexippus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19363,6 +19715,7 @@
   "name": "Red Admiral (Vanessa atalanta)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19418,6 +19771,7 @@
   "name": "Old World Swallowtail (Papilio machaon)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19473,6 +19827,7 @@
   "name": "Apollo Butterfly (Parnassius apollo)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19528,6 +19883,7 @@
   "name": "Hummingbird Hawk-Moth (Macroglossum stellatarum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19583,6 +19939,7 @@
   "name": "Silkworm Moth (Bombyx mori)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19638,6 +19995,7 @@
   "name": "Atlas Moth (Attacus atlas)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19693,6 +20051,7 @@
   "name": "Pine Processionary (Thaumetopoea pityocampa)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19748,6 +20107,7 @@
   "name": "Housefly (Musca domestica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19803,6 +20163,7 @@
   "name": "Asian Tiger Mosquito (Aedes albopictus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19858,6 +20219,7 @@
   "name": "Horsefly (Tabanus atratus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19913,6 +20275,7 @@
   "name": "Mayfly (Ephemera danica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -19968,6 +20331,7 @@
   "name": "Burying Beetle (Nicrophorus investigator)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20023,6 +20387,7 @@
   "name": "Weevil (Sitophilus granarius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20078,6 +20443,7 @@
   "name": "Green Shield Bug (Palomena prasina)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20133,6 +20499,7 @@
   "name": "Brown Marmorated Stink Bug (Halyomorpha halys)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20188,6 +20555,7 @@
   "name": "Stick Insect (Carausius morosus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20243,6 +20611,7 @@
   "name": "Leaf Insect (Pulchriphyllium bioculatum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20298,6 +20667,7 @@
   "name": "Water Scorpion (Nepa cinerea)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20353,6 +20723,7 @@
   "name": "Tarantula (Grammostola rosea)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20408,6 +20779,7 @@
   "name": "Black Widow (Latrodectus mactans)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20463,6 +20835,7 @@
   "name": "Brown Recluse Spider (Loxosceles reclusa)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20518,6 +20891,7 @@
   "name": "Jumping Spider (Phidippus audax)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20573,6 +20947,7 @@
   "name": "Wasp Spider (Argiope bruennichi)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20628,6 +21003,7 @@
   "name": "Orb-Weaver Spider (Araneus diadematus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20683,6 +21059,7 @@
   "name": "European Garden Spider (Araneus diadematus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20738,6 +21115,7 @@
   "name": "Emperor Scorpion (Pandinus imperator)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20793,6 +21171,7 @@
   "name": "Mediterranean Scorpion (Buthus occitanus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20848,6 +21227,7 @@
   "name": "Castor Bean Tick (Ixodes ricinus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20903,6 +21283,7 @@
   "name": "Centipede (Scolopendra gigantea)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -20958,6 +21339,7 @@
   "name": "Millipede (Archispirostreptus gigas)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21013,6 +21395,7 @@
   "name": "Mediterranean Banded Centipede (Scolopendra cingulata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21068,6 +21451,7 @@
   "name": "Common Octopus (Octopus vulgaris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21123,6 +21507,7 @@
   "name": "Dumbo Octopus (Grimpoteuthis spp.)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21178,6 +21563,7 @@
   "name": "Common Cuttlefish (Sepia officinalis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21233,6 +21619,7 @@
   "name": "Giant Squid (Architeuthis dux)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21288,6 +21675,7 @@
   "name": "Colossal Squid (Mesonychoteuthis hamiltoni)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21343,6 +21731,7 @@
   "name": "Chambered Nautilus (Nautilus pompilius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21398,6 +21787,7 @@
   "name": "Sea Slug (Aplysia californica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21453,6 +21843,7 @@
   "name": "Garden Snail (Cornu aspersum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21508,6 +21899,7 @@
   "name": "Red Slug (Arion rufus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21563,6 +21955,7 @@
   "name": "Blue Mussel (Mytilus edulis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21618,6 +22011,7 @@
   "name": "Manila Clam (Ruditapes philippinarum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21673,6 +22067,7 @@
   "name": "European Flat Oyster (Ostrea edulis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21728,6 +22123,7 @@
   "name": "Great Scallop (Pecten maximus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21783,6 +22179,7 @@
   "name": "Spiny Dye-Murex (Bolinus brandaris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21838,6 +22235,7 @@
   "name": "Trumpet Triton (Charonia tritonis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21893,6 +22291,7 @@
   "name": "Common Starfish (Asterias rubens)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -21948,6 +22347,7 @@
   "name": "Sea Urchin (Strongylocentrotus purpuratus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22003,6 +22403,7 @@
   "name": "Sea Cucumber (Apostichopus californicus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22058,6 +22459,7 @@
   "name": "Moon Jellyfish (Aurelia aurita)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22113,6 +22515,7 @@
   "name": "Box Jellyfish (Chironex fleckeri)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22168,6 +22571,7 @@
   "name": "Portuguese Man O' War (Physalia physalis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22223,6 +22627,7 @@
   "name": "Snakelocks Anemone (Anemonia viridis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22278,6 +22683,7 @@
   "name": "Red Coral (Corallium rubrum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22333,6 +22739,7 @@
   "name": "Brain Coral (Diploria labyrinthiformis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22388,6 +22795,7 @@
   "name": "Bath Sponge (Spongia officinalis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22443,6 +22851,7 @@
   "name": "Fiddler Crab (Minuca pugnax)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22498,6 +22907,7 @@
   "name": "Hermit Crab (Coenobita clypeatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22553,6 +22963,7 @@
   "name": "Red King Crab (Paralithodes camtschaticus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22608,6 +23019,7 @@
   "name": "Spiny Lobster (Panulirus argus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22663,6 +23075,7 @@
   "name": "European Lobster (Homarus gammarus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22718,6 +23131,7 @@
   "name": "Norway Lobster (Nephrops norvegicus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22773,6 +23187,7 @@
   "name": "Common Earthworm (Lumbricus terrestris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22828,6 +23243,7 @@
   "name": "Medicinal Leech (Hirudo medicinalis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22883,6 +23299,7 @@
   "name": "Tardigrade (Hypsibius dujardini)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22938,6 +23355,7 @@
   "name": "Great Auk (Pinguinus impennis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -22993,6 +23411,7 @@
   "name": "Passenger Pigeon (Ectopistes migratorius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23048,6 +23467,7 @@
   "name": "Carolina Parakeet (Conuropsis carolinensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23103,6 +23523,7 @@
   "name": "Quagga (Equus quagga quagga)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23158,6 +23579,7 @@
   "name": "Thylacine (Thylacinus cynocephalus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23213,6 +23635,7 @@
   "name": "Steller's Sea Cow (Hydrodamalis gigas)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23268,6 +23691,7 @@
   "name": "Pyrenean Ibex (Capra pyrenaica pyrenaica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23323,6 +23747,7 @@
   "name": "Aurochs (Bos primigenius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23378,6 +23803,7 @@
   "name": "Tarpan (Equus ferus ferus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23433,6 +23859,7 @@
   "name": "Bluebuck (Hippotragus leucophaeus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23488,6 +23915,7 @@
   "name": "Bubal Hartebeest (Alcelaphus buselaphus buselaphus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23543,6 +23971,7 @@
   "name": "Caribbean Monk Seal (Monachus tropicalis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23598,6 +24027,7 @@
   "name": "Japanese Sea Lion (Zalophus japonicus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23653,6 +24083,7 @@
   "name": "Falkland Islands Wolf (Dusicyon australis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23708,6 +24139,7 @@
   "name": "Heath Hen (Tympanuchus cupido cupido)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23763,6 +24195,7 @@
   "name": "Labrador Duck (Camptorhynchus labradorius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23818,6 +24251,7 @@
   "name": "Eskimo Curlew (Numenius borealis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23873,6 +24307,7 @@
   "name": "Huia (Heteralocha acutirostris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23928,6 +24363,7 @@
   "name": "Laughing Owl (Sceloglaux albifacies)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -23983,6 +24419,7 @@
   "name": "Pinta Island Tortoise (Chelonoidis abingdonii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24038,6 +24475,7 @@
   "name": "Western Black Rhinoceros (Diceros bicornis longipes)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24093,6 +24531,7 @@
   "name": "Caspian Tiger (Panthera tigris virgata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24148,6 +24587,7 @@
   "name": "Barbary Lion (Panthera leo leo)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24203,6 +24643,7 @@
   "name": "Bali Tiger (Panthera tigris balica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24258,6 +24699,7 @@
   "name": "Javan Tiger (Panthera tigris sondaica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24313,6 +24755,7 @@
   "name": "Moa (Dinornis robustus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24368,6 +24811,7 @@
   "name": "Elephant Bird (Aepyornis maximus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24423,6 +24867,7 @@
   "name": "Tyrannosaurus Rex (Tyrannosaurus rex)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24478,6 +24923,7 @@
   "name": "Triceratops (Triceratops horridus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24533,6 +24979,7 @@
   "name": "Velociraptor (Velociraptor mongoliensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24588,6 +25035,7 @@
   "name": "Stegosaurus (Stegosaurus stenops)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24643,6 +25091,7 @@
   "name": "Brachiosaurus (Brachiosaurus altithorax)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24698,6 +25147,7 @@
   "name": "Diplodocus (Diplodocus carnegii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24753,6 +25203,7 @@
   "name": "Spinosaurus (Spinosaurus aegyptiacus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24808,6 +25259,7 @@
   "name": "Allosaurus (Allosaurus fragilis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24863,6 +25315,7 @@
   "name": "Ankylosaurus (Ankylosaurus magniventris)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24918,6 +25371,7 @@
   "name": "Parasaurolophus (Parasaurolophus walkeri)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -24973,6 +25427,7 @@
   "name": "Iguanodon (Iguanodon bernissartensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25028,6 +25483,7 @@
   "name": "Archaeopteryx (Archaeopteryx lithographica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25083,6 +25539,7 @@
   "name": "Deinonychus (Deinonychus antirrhopus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25138,6 +25595,7 @@
   "name": "Therizinosaurus (Therizinosaurus cheloniformis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25193,6 +25651,7 @@
   "name": "Gallimimus (Gallimimus bullatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25248,6 +25707,7 @@
   "name": "Carnotaurus (Carnotaurus sastrei)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25303,6 +25763,7 @@
   "name": "Pachycephalosaurus (Pachycephalosaurus wyomingensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25358,6 +25819,7 @@
   "name": "Compsognathus (Compsognathus longipes)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25413,6 +25875,7 @@
   "name": "Argentinosaurus (Argentinosaurus huinculensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25468,6 +25931,7 @@
   "name": "Pteranodon (Pteranodon longiceps)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25523,6 +25987,7 @@
   "name": "Quetzalcoatlus (Quetzalcoatlus northropi)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25578,6 +26043,7 @@
   "name": "Mosasaurus (Mosasaurus hoffmannii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25633,6 +26099,7 @@
   "name": "Plesiosaurus (Plesiosaurus dolichodeirus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25688,6 +26155,7 @@
   "name": "Ichthyosaurus (Ichthyosaurus communis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25743,6 +26211,7 @@
   "name": "Liopleurodon (Liopleurodon ferox)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25798,6 +26267,7 @@
   "name": "Dimetrodon (Dimetrodon grandis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25853,6 +26323,7 @@
   "name": "Woolly Mammoth (Mammuthus primigenius)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25908,6 +26379,7 @@
   "name": "Woolly Rhinoceros (Coelodonta antiquitatis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -25963,6 +26435,7 @@
   "name": "Smilodon (Smilodon fatalis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26018,6 +26491,7 @@
   "name": "Cave Bear (Ursus spelaeus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26073,6 +26547,7 @@
   "name": "Cave Lion (Panthera spelaea)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26128,6 +26603,7 @@
   "name": "Giant Ground Sloth (Megatherium americanum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26183,6 +26659,7 @@
   "name": "Glyptodon (Glyptodon clavipes)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26238,6 +26715,7 @@
   "name": "Megaloceros (Megaloceros giganteus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26293,6 +26771,7 @@
   "name": "Andrewsarchus (Andrewsarchus mongoliensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26348,6 +26827,7 @@
   "name": "Paraceratherium (Paraceratherium spp.)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26403,6 +26883,7 @@
   "name": "Uintatherium (Uintatherium anceps)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26458,6 +26939,7 @@
   "name": "Macrauchenia (Macrauchenia patachonica)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26513,6 +26995,7 @@
   "name": "Doedicurus (Doedicurus clavicaudatus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26568,6 +27051,7 @@
   "name": "American Mastodon (Mammut americanum)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26623,6 +27107,7 @@
   "name": "Dire Wolf (Aenocyon dirus)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26678,6 +27163,7 @@
   "name": "Dunkleosteus (Dunkleosteus terrelli)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26733,6 +27219,7 @@
   "name": "Megalodon (Otodus megalodon)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26788,6 +27275,7 @@
   "name": "Helicoprion (Helicoprion bessonowi)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26843,6 +27331,7 @@
   "name": "Arthropleura (Arthropleura armata)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26898,6 +27387,7 @@
   "name": "Meganeura (Meganeura monyi)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -26953,6 +27443,7 @@
   "name": "Anomalocaris (Anomalocaris canadensis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -27008,6 +27499,7 @@
   "name": "Trilobite (Elrathia kingii)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
@@ -27063,6 +27555,7 @@
   "name": "Opabinia (Opabinia regalis)",
   "type": "content",
   "language": "en",
+  "status": "approved",
   "sections": [
    {
     "type": "text",
