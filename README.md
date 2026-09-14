@@ -11,7 +11,7 @@ Everything you need ships in this repository:
 
 ## Load the catalogue
 
-Requires the [Callimacus CLI](https://docs.callimacus.ai/callimacus-cli/2-installation) 3.0 or newer, logged in against your project, on Node 26 or newer.
+Requires the [Callimacus CLI](https://docs.callimacus.ai/callimacus-cli/2-installation) 5.1 or newer, logged in against your project, on Node 26 or newer. Parts 1 to 5 work from 3.0; part 6 talks to the agents, which needs 5.1.
 
 ```bash
 callimacus skesis init --dir data     # confirms the committed configuration
