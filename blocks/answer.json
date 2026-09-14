@@ -1,8 +1,8 @@
 {
   "key": "immersiveText",
   "name": "Immersive text",
-  "prompt": "The written answer to whatever the visitor asked, in the guide's voice. Useful on every question.",
-  "description": "The written answer to whatever the visitor asked, in the guide's voice. Useful on every question.",
+  "prompt": "The answer, written out.",
+  "description": "The answer, written out.",
   "node": {
     "display": "augment",
     "block": {

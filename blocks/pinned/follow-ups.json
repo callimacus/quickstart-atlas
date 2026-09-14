@@ -1,8 +1,8 @@
 {
   "key": "relQuestions",
   "name": "Related Questions",
-  "prompt": "Three short follow-up questions drawn from what the round just covered. Always appropriate — it is how a visitor keeps going without typing.",
-  "description": "Three short follow-up questions drawn from what the round just covered. Always appropriate — it is how a visitor keeps going without typing.",
+  "prompt": "Three questions to ask next — every round ends with them.",
+  "description": "Three questions to ask next — every round ends with them.",
   "node": {
     "display": "augment",
     "block": {
