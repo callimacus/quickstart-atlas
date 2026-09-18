@@ -11,7 +11,7 @@ Everything you need ships in this repository:
 
 ## Load the catalogue
 
-Requires the [Callimacus CLI](https://docs.callimacus.ai/callimacus-cli/2-installation) 5.2 or newer, logged in against your project, on Node 26 or newer. Parts 1 to 5 work from 3.0, except the documents below — `document create` only splits a file this size into batches from 5.2. Part 6 talks to the agents, which needs 5.1.
+Requires the [Callimacus CLI](https://docs.callimacus.ai/callimacus-cli/2-installation) 5.3 or newer, logged in against your project, on Node 26 or newer. The catalogue step needs 5.3: `skesis up` uploads the images the records name and swaps each `{"$asset": "…"}` for its url before submitting, and every release from 4.0 to 5.2 refused its own uploads. `document create` splits a file this size into batches from 5.2; part 6 talks to the agents, which needs 5.1.
 
 ```bash
 callimacus skesis init --dir data                        # confirms the committed configuration
