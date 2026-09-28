@@ -22,12 +22,12 @@ block fits the question. Change the description and you change when it appears.
 ## `aquarium-opening.json`
 
 The one block here that does not leave its selection to Thamyr, and the only one
-with nothing to retrieve or generate. Its `condition` names the `marine_wildlife`
+with nothing to retrieve or generate. Its `when` names the `marine_wildlife`
 receptor label, so it appears on questions about the animals of the sea and
-nowhere else — the receptor decides, not the block description. `priority: 0`
+nowhere else — the receptor decides, not the block description. `order: 0`
 puts it at the head of the round.
 
-Its whole content is a single `static` item, so the announcement's wording lives
+Its whole content is a single `fixed` item, so the announcement's wording lives
 on the tenant: edit the `value` and `callimacus block save --file blocks/aquarium-opening.json`
 changes what the banner says, with no frontend deploy and no LLM call. There is
 one announcement and it does not depend on the question, so there is nothing
@@ -38,12 +38,12 @@ round — see `src/components/AquariumOpening`.
 
 ## `pinned/`
 
-The same four blocks again, with one difference: their `condition` names the
+The same four blocks again, with one difference: their `when` names the
 `marine_wildlife` receptor label from part 4 instead of leaving the choice to
 Thamyr. Save them together with `aquarium-opening.json`, right after creating the
 label and before asking anything, and a question about the animals of the sea
 gets the same round every time — banner, animal, habitat, spread, follow-ups, in
-priority order.
+that order.
 
 Pin the **whole** round, not one block of it. Once a label matches, the round is
 owned by your rules and only the blocks pinned to that label appear in it: with
