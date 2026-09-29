@@ -7,7 +7,7 @@ import {
 	useOnResponse,
 	UserInteractionType,
 	useThamyr,
-} from '@solomei-ai/thamyr-react';
+} from '@callimacus/thamyr-react';
 import {normalizeType} from "./blockData.ts";
 import {
 	discoveryFeedAnimalsFromBlock,

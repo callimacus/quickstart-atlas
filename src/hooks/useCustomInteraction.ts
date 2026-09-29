@@ -1,4 +1,4 @@
-import {SLInputEventType, UserInteractionType, useThamyr} from "@solomei-ai/thamyr-react";
+import {SLInputEventType, UserInteractionType, useThamyr} from "@callimacus/thamyr-react";
 import {useLoadingStore} from "../stores/loadingStore.ts";
 import {useHistoryStore} from "../stores/historyStore.ts";
 import {useStoryStore} from "../stores/storyStore.ts";

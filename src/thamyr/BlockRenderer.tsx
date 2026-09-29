@@ -1,4 +1,4 @@
-import type { Block } from '@solomei-ai/thamyr-react';
+import type { Block } from '@callimacus/thamyr-react';
 import TextResponse from "../components/TextResponse/TextResponse.tsx";
 import AnimalCardList from "../components/AnimalscardList/AnimalCardList.tsx";
 import AnimalProfile from "../components/AnimalProfile/AnimalProfile.tsx";
