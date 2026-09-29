@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@solomei-ai/intent": "^2.1.1",
-    "@solomei-ai/thamyr-react": "^3.1.4",
+    "@callimacus/intent": "^2.1.8",
+    "@callimacus/thamyr-react": "^4.3.4",
     "d3-geo": "^3.1.1",
     "lenis": "^1.3.26",
     "motion": "^13.1.1",

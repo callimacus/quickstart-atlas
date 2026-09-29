@@ -1,5 +1,5 @@
 import {create} from 'zustand';
-import type {Chapter} from '@solomei-ai/thamyr-react';
+import type {Chapter} from '@callimacus/thamyr-react';
 
 type ConversationState = {
 	// Chapters (rounds) of the active story, in arrival order. Held in a store so

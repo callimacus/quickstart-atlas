@@ -6,9 +6,8 @@ frontend:
                 - nvm install
                 - nvm use
 
-                # Configure npm auth for the private @solomei-ai registry (npm.callimacus.ai)
-                - echo "@solomei-ai:registry=https://npm.callimacus.ai/" > .npmrc
-                - echo "//npm.callimacus.ai/:_authToken=${CALLIMACUS_NPM_TOKEN}" >> .npmrc
+                # Configure npm auth for the @callimacus scope (public packages on npmjs)
+                - echo "@callimacus:registry=https://registry.npmjs.org/" > .npmrc
 
                 # Install dependencies
                 - npm ci --cache .npm --prefer-offline

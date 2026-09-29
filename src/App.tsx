@@ -17,7 +17,7 @@ import Home from "./components/Home/Home.tsx";
 import Footer from "./components/Footer/Footer.tsx";
 
 // ── STAGE 2 ── connected to Callimacus ─────────────────────────────────────
-import {useInitThamyr, useConnection} from '@solomei-ai/thamyr-react';
+import {useInitThamyr, useConnection} from '@callimacus/thamyr-react';
 import {useThamyrConversation} from "./thamyr/useThamyrConversation.ts";
 import useConnectionEvent from "./hooks/useConnectionEvent.ts";
 import {useSwitchScroll} from "./hooks/useSwitchScroll.ts";

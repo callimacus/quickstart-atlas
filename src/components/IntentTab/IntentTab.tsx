@@ -4,7 +4,7 @@ import {AnimatePresence, motion} from "motion/react";
 import Logbook from "./Logbook.tsx";
 import HistoryMap from "../History/HistoryMap.tsx";
 import type {HistoryEntry} from "../History/history.ts";
-import {SLInputEventType, UserInteractionType, useThamyr} from "@solomei-ai/thamyr-react";
+import {SLInputEventType, UserInteractionType, useThamyr} from "@callimacus/thamyr-react";
 import {useStoryStore} from "../../stores/storyStore.ts";
 import {useConversationStore} from "../../stores/conversationStore.ts";
 import {useLoadingStore} from "../../stores/loadingStore.ts";

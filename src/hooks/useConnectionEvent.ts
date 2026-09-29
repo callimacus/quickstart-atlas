@@ -1,5 +1,5 @@
 import {useRef} from "react";
-import {SLInputEventType, UserInteractionType, useOnConnectionChange, useThamyr} from "@solomei-ai/thamyr-react";
+import {SLInputEventType, UserInteractionType, useOnConnectionChange, useThamyr} from "@callimacus/thamyr-react";
 
 /** Fires the "connection" customInteraction round once, as soon as Thamyr connects — seeds the discoveryFeed custom landing. */
 function useConnectionEvent() {
