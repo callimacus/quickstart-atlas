@@ -4,6 +4,7 @@
   "prompt": "The entrance feed — a spread of records chosen from what this visitor has shown curiosity about. The Landing's own block; not an answer to a question.",
   "description": "The entrance feed, for the Landing.",
   "node": {
+    "specVersion": 2,
     "block": {
       "type": "discoveryFeed",
       "data": {

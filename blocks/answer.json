@@ -4,6 +4,7 @@
   "prompt": "The written answer to whatever the visitor asked, in the guide's voice. Useful on every question.",
   "description": "The answer, written out.",
   "node": {
+    "specVersion": 2,
     "block": {
       "type": "demosthenesResponse",
       "data": {

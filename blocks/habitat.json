@@ -4,6 +4,7 @@
   "prompt": "A card for one habitat, biome or place — climate, rainfall, canopy, description. Use when the visitor asks about a place or what lives there. Not for superlatives, not for a named species, not for comparisons.",
   "description": "One place — its climate, its terrain.",
   "node": {
+    "specVersion": 2,
     "block": {
       "type": "HabitatCard",
       "data": {

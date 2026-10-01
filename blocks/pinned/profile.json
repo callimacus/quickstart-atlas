@@ -4,6 +4,7 @@
   "prompt": "One animal in depth — its record, a definition and a curiosity. Use only when the visitor names one specific species and asks about it ('tell me about the jaguar', 'how big is a blue whale'). Not for 'which animal is the fastest or biggest' — that is a ranking, not a species. Not for comparing two named animals, and not for places.",
   "description": "One animal, up close.",
   "node": {
+    "specVersion": 2,
     "block": {
       "type": "animalDetail",
       "data": {

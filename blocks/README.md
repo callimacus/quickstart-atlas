@@ -4,6 +4,10 @@ One file per block the Quickstart adds, in the order the guide adds them.
 Save one with `callimacus block save --file blocks/<name>.json`; every save takes
 effect on the next round, nothing to restart.
 
+Every file says `"specVersion": 2`. Keep it when you copy one: a spec saved without
+it over a block that already exists is read as written before v2, and its retrieving
+contents fail the block on a shortfall instead of hiding.
+
 | File | Block | What it shows |
 |---|---|---|
 | `answer.json` | `immersiveText` | the written answer |

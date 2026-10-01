@@ -4,6 +4,7 @@
   "prompt": "Ranks three to five animals along one measurable dimension on a visual scale. This is the block for superlatives — 'which animal is the fastest on land', 'what are the heaviest animals in the ocean', 'the most dangerous predators'. Even when a single winner exists, the ranking is the answer. Not for two named animals (that is a comparison), and not for questions about a place or what lives somewhere.",
   "description": "Ranks a handful of animals on a scale.",
   "node": {
+    "specVersion": 2,
     "block": {
       "type": "RankedList",
       "data": {

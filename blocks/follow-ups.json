@@ -4,6 +4,7 @@
   "prompt": "Three short follow-up questions drawn from what the round just covered. Always appropriate — it is how a visitor keeps going without typing.",
   "description": "Three questions to ask next — every round ends with them.",
   "node": {
+    "specVersion": 2,
     "block": {
       "type": "relQuestions",
       "data": {

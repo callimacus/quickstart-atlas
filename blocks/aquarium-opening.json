@@ -4,6 +4,7 @@
   "prompt": "A one-line announcement that the Atlas Aquarium has opened, for visitors reading about sea animals. Use only on questions about the animals of the sea — ocean, reef or deep-water species, or what lives underwater. Not for any land habitat.",
   "description": "Announces the new Atlas Aquarium.",
   "node": {
+    "specVersion": 2,
     "block": {
       "type": "aquariumOpening",
       "data": {
