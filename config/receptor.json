@@ -1,0 +1,11 @@
+{
+  "category": "destination",
+  "categoryDescription": "Which flagship destination the visitor's question is about.",
+  "labels": [
+    {
+      "label": "marine_wildlife",
+      "description": "The animals of the sea.",
+      "examples": ["which animals live in the ocean", "deep sea creatures"]
+    }
+  ]
+}
