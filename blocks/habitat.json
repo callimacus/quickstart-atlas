@@ -1,10 +1,10 @@
 {
   "key": "HabitatCard",
   "name": "Habitat Card",
-  "prompt": "One place — its climate, its terrain.",
+  "prompt": "A card for one habitat, biome or place — climate, rainfall, canopy, description. Use when the visitor asks about a place or what lives there. Not for superlatives, not for a named species, not for comparisons.",
   "description": "One place — its climate, its terrain.",
   "node": {
-    "display": "augment",
+    "specVersion": 2,
     "block": {
       "type": "HabitatCard",
       "data": {
@@ -18,14 +18,14 @@
         "kinds": [
           "habitat"
         ],
-        "minK": 1,
-        "topK": 5,
-        "queryTemplate": "{{input.value}}"
+        "min": 1,
+        "take": 5,
+        "template": "{{input.value}}"
       }
     ],
-    "condition": {
+    "when": {
       "type": "never"
     },
-    "priority": 20
+    "order": 20
   }
 }

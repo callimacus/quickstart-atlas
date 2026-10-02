@@ -1,10 +1,10 @@
 {
   "key": "immersiveText",
   "name": "Immersive text",
-  "prompt": "The answer, written out.",
+  "prompt": "The written answer to whatever the visitor asked, in the guide's voice. Useful on every question.",
   "description": "The answer, written out.",
   "node": {
-    "display": "augment",
+    "specVersion": 2,
     "block": {
       "type": "demosthenesResponse",
       "data": {
@@ -16,26 +16,24 @@
       {
         "id": "text",
         "kind": "demosthenes",
-        "queryTemplate": "{{input.value}}",
+        "template": "{{input.value}}",
         "streaming": true
       },
       {
         "id": "title",
-        "kind": "llm",
+        "kind": "text",
         "useKb": false,
         "output": {
           "kind": "text"
         },
         "systemPrompt": "You are a brand voice copywriter. Create a single, explorative, on-brand title derived from the user's topic/answer. Keep it concise, catchy, and curiosity-stirring. Hard limit: 8 words. Avoid emojis and quotation marks.",
-        "creatorInfo": "Title generation for explorative brand tone",
-        "promptTemplate": "Based on the assistant's answer below, write ONE explorative, on-brand title, maximum 8 words. Output only the title text, no quotes.\n\nAnswer:\n{{content.text}}",
-        "applyStyle": true
+        "template": "Based on the assistant's answer below, write ONE explorative, on-brand title, maximum 8 words. Output only the title text, no quotes.\n\nAnswer:\n{{content.text}}",
+        "useDemosthenesTone": true
       }
     ],
-    "condition": {
+    "when": {
       "type": "never"
     },
-    "priority": 1,
-    "exclusiveGroup": "answer"
+    "order": 1
   }
 }

@@ -1,10 +1,10 @@
 {
   "key": "aquariumOpening",
   "name": "Aquarium Announcement",
-  "prompt": "Announces the new Atlas Aquarium.",
+  "prompt": "A one-line announcement that the Atlas Aquarium has opened, for visitors reading about sea animals. Use only on questions about the animals of the sea — ocean, reef or deep-water species, or what lives underwater. Not for any land habitat.",
   "description": "Announces the new Atlas Aquarium.",
   "node": {
-    "display": "augment",
+    "specVersion": 2,
     "block": {
       "type": "aquariumOpening",
       "data": {
@@ -14,7 +14,7 @@
     "contents": [
       {
         "id": "announcement",
-        "kind": "static",
+        "kind": "fixed",
         "value": {
           "tag": "New",
           "title": "Discover the new Atlas Aquarium",
@@ -22,19 +22,19 @@
         }
       }
     ],
-    "condition": {
+    "when": {
       "type": "allOf",
       "value": [
         {
-          "type": "inputTypeIs",
-          "value": "question"
+          "type": "input",
+          "is": "question"
         },
         {
-          "type": "receptorMatches",
+          "type": "receptorIs",
           "value": "marine_wildlife"
         }
       ]
     },
-    "priority": 0
+    "order": 0
   }
 }

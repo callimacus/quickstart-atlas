@@ -1,10 +1,10 @@
 {
   "key": "relQuestions",
   "name": "Related Questions",
-  "prompt": "Three questions to ask next — every round ends with them.",
+  "prompt": "Three short follow-up questions drawn from what the round just covered. Always appropriate — it is how a visitor keeps going without typing.",
   "description": "Three questions to ask next — every round ends with them.",
   "node": {
-    "display": "augment",
+    "specVersion": 2,
     "block": {
       "type": "relQuestions",
       "data": {
@@ -14,40 +14,39 @@
     "contents": [
       {
         "id": "questions",
-        "kind": "llm",
+        "kind": "text",
         "useKb": false,
-        "applyStyle": true,
+        "useDemosthenesTone": true,
         "systemPrompt": "You write follow-up questions for a natural-history site. Each must be answerable from the animal kingdom, short enough to read at a glance, and genuinely different from the others.",
-        "creatorInfo": "A curious naturalist suggesting where to look next.",
         "output": {
           "kind": "json",
           "schemaJson": "{\"type\":\"object\",\"properties\":{\"questions\":{\"type\":\"array\",\"minItems\":3,\"maxItems\":3,\"items\":{\"type\":\"object\",\"properties\":{\"title\":{\"type\":\"string\"},\"text\":{\"type\":\"string\"}},\"required\":[\"title\",\"text\"],\"additionalProperties\":false}}},\"required\":[\"questions\"],\"additionalProperties\":false}"
         },
-        "promptTemplate": "The visitor asked: \"{{input.value}}\"\n\nWrite exactly three follow-up questions. Each has a `title` of at most 4 words naming the angle, and a `text` holding the question itself."
+        "template": "The visitor asked: \"{{input.value}}\"\n\nWrite exactly three follow-up questions. Each has a `title` of at most 4 words naming the angle, and a `text` holding the question itself."
       }
     ],
-    "condition": {
+    "when": {
       "type": "anyOf",
       "value": [
         {
           "type": "allOf",
           "value": [
             {
-              "type": "inputTypeIs",
-              "value": "question"
+              "type": "input",
+              "is": "question"
             },
             {
-              "type": "receptorMatches",
+              "type": "receptorIs",
               "value": "marine_wildlife"
             }
           ]
         },
         {
-          "type": "interactionIs",
-          "id": "animalClick"
+          "type": "input",
+          "interaction": "animalClick"
         }
       ]
     },
-    "priority": 1000
+    "order": 1000
   }
 }

@@ -1,10 +1,10 @@
 {
   "key": "discoveryFeed",
   "name": "Animal Discovery Feed",
-  "prompt": "The entrance feed, for the Landing.",
+  "prompt": "The entrance feed — a spread of records chosen from what this visitor has shown curiosity about. The Landing's own block; not an answer to a question.",
   "description": "The entrance feed, for the Landing.",
   "node": {
-    "display": "augment",
+    "specVersion": 2,
     "block": {
       "type": "discoveryFeed",
       "data": {
@@ -16,12 +16,12 @@
     "contents": [
       {
         "id": "title",
-        "kind": "static",
+        "kind": "fixed",
         "value": "{{ctx.useIntents.wildlife_discovery_intent.title}}"
       },
       {
         "id": "intent",
-        "kind": "static",
+        "kind": "fixed",
         "value": "{{ctx.useIntents.wildlife_discovery_intent.summary}}"
       },
       {
@@ -30,24 +30,24 @@
         "kinds": [
           "animal"
         ],
-        "minK": 1,
-        "topK": 50,
-        "queryTemplate": "{{ctx.useIntents.wildlife_discovery_intent.traits}}: {{ctx.useIntents.wildlife_discovery_intent.summary}} — prioritize animals matching these specific traits (classification, habitat, era) over generic variety; only when no clear traits are present, show diverse wildlife spanning habitats, classifications, and eras instead."
+        "min": 1,
+        "take": 50,
+        "template": "{{ctx.useIntents.wildlife_discovery_intent.traits}}: {{ctx.useIntents.wildlife_discovery_intent.summary}} — prioritize animals matching these specific traits (classification, habitat, era) over generic variety; only when no clear traits are present, show diverse wildlife spanning habitats, classifications, and eras instead."
       }
     ],
-    "condition": {
+    "when": {
       "type": "anyOf",
       "value": [
         {
-          "type": "inputTypeIs",
-          "value": "customPage"
+          "type": "input",
+          "is": "customPage"
         },
         {
-          "type": "interactionIs",
-          "id": "connection"
+          "type": "input",
+          "interaction": "connection"
         }
       ]
     },
-    "priority": 100
+    "order": 100
   }
 }

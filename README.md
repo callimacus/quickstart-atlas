@@ -6,12 +6,12 @@ Everything you need ships in this repository:
 
 - `data/` — 495 animals, 19 habitats, 493 knowledge documents, an illustration for every record, and `skesis.config.json`, the file that says which properties are searchable.
 - `blocks/` — one JSON file per block the guide adds, and `blocks/pinned/` for part 4.
-- `config/` — the intent schema, use intent and landing for part 5.
+- `config/` — the flow guidelines for part 3, the receptor for part 4, and the intent schema, use intent and landing for part 5.
 - `src/` — the real Atlas front end, already wired to your project through `VITE_CALLIMACUS_CLIENT_ID`.
 
 ## Load the catalogue
 
-Requires the [Callimacus CLI](https://docs.callimacus.ai/callimacus-cli/2-installation) 5.3 or newer, logged in against your project, on Node 26 or newer. The catalogue step needs 5.3: `skesis up` uploads the images the records name and swaps each `{"$asset": "…"}` for its url before submitting, and every release from 4.0 to 5.2 refused its own uploads. `document create` splits a file this size into batches from 5.2; part 6 talks to the agents, which needs 5.1.
+Requires the [Callimacus CLI](https://docs.callimacus.ai/callimacus-cli/2-installation) 8.0 or newer, logged in against your project, on Node 26 or newer. Part 3 needs 8.0: `thamyr config section set flow` turns on the cognitive flow from `config/flow.json`. `skesis up` uploads the images the records name and swaps each `{"$asset": "…"}` for its url before submitting.
 
 ```bash
 callimacus skesis init --dir data                        # confirms the committed configuration
