@@ -1,8 +1,8 @@
 {
   "key": "relQuestions",
   "name": "Related Questions",
-  "prompt": "Three short follow-up questions drawn from what the round just covered. Always appropriate — it is how a visitor keeps going without typing.",
-  "description": "Three questions to ask next — every round ends with them.",
+  "prompt": "Up to three short follow-up questions the knowledge base answers, drawn from what the round just covered. Always appropriate — it is how a visitor keeps going without typing.",
+  "description": "Up to three questions to ask next, each one the site can answer — every round ends with them.",
   "node": {
     "specVersion": 2,
     "block": {
@@ -15,14 +15,14 @@
       {
         "id": "questions",
         "kind": "text",
-        "useKb": false,
+        "useKb": true,
         "useDemosthenesTone": true,
-        "systemPrompt": "You write follow-up questions for a natural-history site. Each must be answerable from the animal kingdom, short enough to read at a glance, and genuinely different from the others.",
+        "systemPrompt": "You write follow-up questions for a natural-history site. Each must be answered by the knowledge base you are given, short enough to read at a glance, and genuinely different from the others. A question the site cannot answer is worse than no question.",
         "output": {
           "kind": "json",
-          "schemaJson": "{\"type\":\"object\",\"properties\":{\"questions\":{\"type\":\"array\",\"minItems\":3,\"maxItems\":3,\"items\":{\"type\":\"object\",\"properties\":{\"title\":{\"type\":\"string\"},\"text\":{\"type\":\"string\"}},\"required\":[\"title\",\"text\"],\"additionalProperties\":false}}},\"required\":[\"questions\"],\"additionalProperties\":false}"
+          "schemaJson": "{\"type\":\"object\",\"properties\":{\"questions\":{\"type\":\"array\",\"minItems\":0,\"maxItems\":3,\"items\":{\"type\":\"object\",\"properties\":{\"title\":{\"type\":\"string\"},\"text\":{\"type\":\"string\"}},\"required\":[\"title\",\"text\"],\"additionalProperties\":false}}},\"required\":[\"questions\"],\"additionalProperties\":false}"
         },
-        "template": "The visitor asked: \"{{input.value}}\"\n\nWrite exactly three follow-up questions. Each has a `title` of at most 4 words naming the angle, and a `text` holding the question itself."
+        "template": "The visitor asked: \"{{input.value}}\"\n\nWrite up to three follow-up questions the knowledge base answers. Write none when it does not cover what the visitor asked: never a question about something it does not cover. Each has a `title` of at most 4 words naming the angle, and a `text` holding the question itself."
       }
     ],
     "when": {
